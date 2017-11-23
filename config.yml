@@ -509,71 +509,69 @@ shopMenuItems:
       # The same rules apply for material, amount, damage and lore as for goBackButton
       material: GRASS
       quantity: 1
-      name: "&9&lBlocks"
+      name: "&7&lBlocks"
     # Shop ID from shops.yml
     shop: "blocks"
     # Slot in shops menu, counting from 0 to 53
     slot: 0
   2: 
     item:
-      material: COOKED_CHICKEN 
+      material: ROTTEN_FLESH
       quantity: 1 
       damage: 0
-      name: "&2&lFood"
-      lore:
-        - "&7Get some yummy food here!"
-    shop: "food" 
+      name: "&4&lDrops"
+    shop: "drops" 
     slot: 1
   3: 
     item:
-      material: GOLD_INGOT 
+      material: DIAMOND
       quantity: 1 
       damage: 0
-      name: "&3&lOres"
+      name: "&b&lOres and valuables"
     shop: "ores" 
     slot: 2
   4:
     item:
-      material: IRON_PICKAXE
+      material: SEEDS
       quantity: 1
-      name: "&8&lTools"
+      name: "&a&lFarming"
     shop: "tools"
     slot: 3
   5:
     item:
-      material: DIAMOND_CHESTPLATE
+      material: GREEN_RECORD
       quantity: 1
-      name: "&4&lArmor"
-    shop: "armor"
+      name: "&4&lMusic Discs"
+    shop: "discs"
     slot: 4
   6:
     item:
-      material: WHEAT
+      material: INK_SACK
       quantity: 1
-      name: "&5&lFarming"
+      name: "&8&lDyes"
     shop: "farming"
     slot: 5
   7:
     item:
-      material: SPIDER_EYE
+      material: SADDLE
       quantity: 1
-      name: "&9&lMob drops"
-    shop: "drops"
+      name: "&d&lMiscellaneous"
+    shop: "miscellaneous"
     slot: 6
   8:
     item:
-      material: INK_SACK
+      material: EXP_BOTTLE
       quantity: 1
       damage: 12
-      name: "&2&lDyes"
-    shop: "dyes"
+      name: "&a&lVIP &5&lShop"
+    shop: "vipshop"
     slot: 7
   9:
     item:
-      material: SADDLE
+      material: BARRIER
       quantity: 1
-      name: "&3&lMiscellanous"
-    shop: "miscellanous"
+      name: "&6&lEmpty"
+    shop: "empty"
     slot: 8
 
 
