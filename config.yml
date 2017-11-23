@@ -535,7 +535,7 @@ shopMenuItems:
       material: SEEDS
       quantity: 1
       name: "&a&lFarming"
-    shop: "tools"
+    shop: "farming"
     slot: 3
   5:
     item:
@@ -560,7 +560,7 @@ shopMenuItems:
     slot: 6
   8:
     item:
-      material: EXP_BOTTLE
+      material: BLAZE_POWDER
       quantity: 1
       damage: 12
       name: "&a&lVIP &5&lShop"
