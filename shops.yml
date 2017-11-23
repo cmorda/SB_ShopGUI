@@ -302,8 +302,8 @@ shops:
         type: special
         special: BALANCE
         slot: 53
-  food:
-    name: "&2&lFood (page %page%)"
+  drops:
+    name: "&2&lDrops (page %page%)"
     size: 36
     buttons:
       goBack:
@@ -467,8 +467,8 @@ shops:
         buyPrice: 50
         sellPrice: 10
         slot: 18
-  ores:
-    name: "&3&lOres (page %page%)"
+  oresandvaluables:
+    name: "&3&lOres and Valuables (page %page%)"
     size: 27
     buttons:
       goBack:
@@ -543,8 +543,8 @@ shops:
         buyPrice: 20
         sellPrice: 4
         slot: 7
-  tools:
-    name: "&8&lTools (page %page%)"
+  farming:
+    name: "&8&lFarming (page %page%)"
     size: 36
     buttons:
       goBack:
