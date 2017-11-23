@@ -24,7 +24,7 @@ database:
 #  - TOKEN_MANAGER (requires https://www.spigotmc.org/resources/tokenmanager.8610/)
 economyType: VAULT
 # Name of the main GUI
-shopMenuName: "&3&lShop menu"
+shopMenuName: "&3&lShops"
 # Size of the main GUI, valid values are 9, 18, 27, 36, 45 and 54
 shopMenuSize: 9
 # Define whether selling all with middle mouse button is enabled
@@ -64,7 +64,7 @@ capitalizeItemNames: true
 # Choose the type of price modifiers. (BOTH (permission modifiers have higher priority than command-ones), COMMAND, PERMISSION)
 priceModifiersType: BOTH
 # Choose if the gui shall be closed after using the Sell All feature
-closeGuiAfterSellAll: false
+closeGuiAfterSellAll: true
 # Choose if bulk buy/sell guis should be opened immediately after clicking an item (enableBuyGUI and enableSellGUI have to be enabled as well and players need the bulk buy/sell permissions)
 openBulkGuiImmediately: false
 # Choose which items stack size should be capped at 16 inside the amount selection GUI so players can't buy eg. oversized ender pearl stacks
@@ -88,10 +88,9 @@ itemStackSizeCappedAt:
 # Choose what gamemodes will prevent players from accessing shops. Valid values: ADVENTURE, CREATIVE, SPECTATOR, SURVIVAL
 disableShopsInGamemodes:
   - ADVENTURE
-  - CREATIVE
   - SPECTATOR
 # Choose in which worlds players won't be able to access the shop. Same list format as disableShopsInGamemodes
-disableShopsInWorlds: []
+disableShopsInWorlds: [pvp]
   
 # Choose whether price modifiers should be displayed in percents instead of decimals (eg. 10% instead of 0.10), remember you will still have to use the decimal way in commands
 displayPriceModifiersInPercents: true
@@ -103,7 +102,7 @@ disableSudoWorldPermissionCheck: false
 disableSudoShopPermissionCheck: false
 
 # Choose whether free items (with sell price of $0) should be excluded from being sold using /sell hand and /sell all
-sellHandAllExcludeFreeItems: true
+sellHandAllExcludeFreeItems: false
 
 # Choose predefined settings for all items (will be overriden when set explicitly for an item in shops.yml)
 defaultItemSettings:
@@ -158,7 +157,7 @@ sellHand:
   # When set to true, players will be able to sell any quantity of the item (the price will be calculated from the base price)
   allowAllQuantites: true
   # When set to true, /sell hand will work same way as /sell handall does
-  sellsAllItems: false
+  sellsAllItems: true
 
 # Sell all command settings
 sellAll:
@@ -170,7 +169,7 @@ buttons:
   goBack:
     item:
       # Material name, full list can be found here: http://wiki.brcdev.net/Materials
-      material: NETHER_STAR 
+      material: REDSTONE_BLOCK
       # Amount of the item
       amount: 1 
       # (optional) Data value, for example 1 for WOOD:1 means spruce wood planks
