@@ -541,7 +541,7 @@ shopMenuItems:
     item:
       material: GREEN_RECORD
       quantity: 1
-      name: "&4&lMusic Discs"
+      name: "&3&lMusic Discs"
     shop: "discs"
     slot: 4
   6:
@@ -549,7 +549,7 @@ shopMenuItems:
       material: INK_SACK
       quantity: 1
       name: "&8&lDyes"
-    shop: "farming"
+    shop: "dyes"
     slot: 5
   7:
     item:
