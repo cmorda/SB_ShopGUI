@@ -1082,159 +1082,99 @@ shops:
         slot: 26
   miscellaneous:
     name: "&d&lMiscellaneous"
-    size: 36
+    size: 27
     buttons:
       goBack:
-        slot: 31
+        slot: 22
       previousPage:
-        slot: 30
+        slot: 21
       nextPage:
-        slot: 32
+        slot: 23
     items:
       1:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 0
-        buyPrice: 50
-        sellPrice: 5
+          material: LAVA_BUCKET
+          quantity: 1
+        buyPrice: 400
+        sellPrice: 200
         slot: 0
       2:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 1
-        buyPrice: 100
-        sellPrice: 20
+          material: ICE
+          quantity: 1
+        buyPrice: 350
+        sellPrice: 2
         slot: 1
       3:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 2
-        buyPrice: 100
-        sellPrice: 20
-        slot: 2
+          material: CAKE
+          quantity: 1
+        buyPrice: 0.1
+        sellPrice: 0
+        slot: 7
       4:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 3
-        buyPrice: 50
-        sellPrice: 5
-        slot: 3
+          material: EXP_BOTTLE
+          quantity: 64
+        buyPrice: 30
+        sellPrice: 15
+        slot: 8
       5:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 4
-        buyPrice: 20
-        sellPrice: 4
-        slot: 4
+          material: DIAMOND_BARDING
+          quantity: 1
+        buyPrice: 50000
+        sellPrice: 0
+        slot: 10
       6:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 5
-        buyPrice: 100
-        sellPrice: 20
-        slot: 5
+          material: GOLD_BARDING
+          quantity: 1
+        buyPrice: 20000
+        sellPrice: 0
+        slot: 11
       7:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 6
-        buyPrice: 100
-        sellPrice: 20
-        slot: 6
+          material: IRON_BARDING
+          quantity: 1
+        buyPrice: 10000
+        sellPrice: 0
+        slot: 12
       8:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 7
-        buyPrice: 100
-        sellPrice: 20
-        slot: 7
+          material: SADDLE
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: 750
+        slot: 14
       9:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 8
+          material: LEASH
+          quantity: 1
         buyPrice: 100
-        sellPrice: 20
-        slot: 8
+        sellPrice: 0
+        slot: 15
       10:
         type: item
         item:
-          material: INK_SACK
-          quantity: 16
-          damage: 9
-        buyPrice: 100
-        sellPrice: 20
-        slot: 9
+          material: NAME_TAG
+          quantity: 1
+        buyPrice: 900
+        sellPrice: 450
+        slot: 16
       11:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 10
-        buyPrice: 100
-        sellPrice: 20
-        slot: 10
-      12:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 11
-        buyPrice: 100
-        sellPrice: 20
-        slot: 11
-      13:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 12
-        buyPrice: 100
-        sellPrice: 20
-        slot: 12
-      14:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 13
-        buyPrice: 100
-        sellPrice: 20
-        slot: 13
-      15:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 14
-        buyPrice: 100
-        sellPrice: 20
-        slot: 14
-      16:
-        type: item
-        item:
-          material: INK_SACK
-          quantity: 16
-          damage: 15
-        buyPrice: 100
-        sellPrice: 20
-        slot: 15
+        type: special
+        special: BALANCE
+        slot: 26
   vipshop:
     name: "&a&lVip &5&lShop"
     size: 27
