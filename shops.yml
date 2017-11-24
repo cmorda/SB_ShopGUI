@@ -626,7 +626,7 @@ shops:
       17:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aVillager Egg"
         commands:
@@ -637,7 +637,7 @@ shops:
       18:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aHorse Egg"
         commands:
@@ -648,7 +648,7 @@ shops:
       19:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aCow Egg"
         commands:
@@ -659,7 +659,7 @@ shops:
       20:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aSheep Egg"
         commands:
@@ -670,7 +670,7 @@ shops:
       21:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aPig Egg"
         commands:
@@ -681,7 +681,7 @@ shops:
       22:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aOcelot Egg"
         commands:
@@ -692,7 +692,7 @@ shops:
       23:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aWolf Egg"
         commands:
@@ -1811,7 +1811,7 @@ shops:
       37:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aMooshroom Egg"
         commands:
@@ -1822,7 +1822,7 @@ shops:
       38:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aRabbit Egg"
         commands:
@@ -1833,7 +1833,7 @@ shops:
       39:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aPolar Bear Egg"
         commands:
@@ -1857,7 +1857,7 @@ shops:
       41:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aBat Egg"
         commands:
@@ -1868,7 +1868,7 @@ shops:
       42:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aSquid Egg"
         commands:
@@ -1879,7 +1879,7 @@ shops:
       42:
         type: command
         item:
-          material: MONSTER_EGG
+          material: EGG
           quantity: 1
           name: "&aEndermite Egg"
         commands:
