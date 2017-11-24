@@ -1,6 +1,6 @@
 shops:
   blocks:
-    name: "&7&lBlocks (page %page%)"
+    name: "&7&lBlocks"
     items:
       1:
         type: item
@@ -304,7 +304,7 @@ shops:
         special: BALANCE
         slot: 53
   drops:
-    name: "&4&lDrops (page %page%)"
+    name: "&4&lDrops"
     size: 36
     buttons:
       goBack:
@@ -469,7 +469,7 @@ shops:
         sellPrice: 10
         slot: 18
   ores:
-    name: "&b&lOres and Valuables (page %page%)"
+    name: "&b&lOres and Valuables"
     size: 27
     buttons:
       goBack:
@@ -545,7 +545,7 @@ shops:
         sellPrice: 4
         slot: 7
   farming:
-    name: "&a&lFarming (page %page%)"
+    name: "&a&lFarming"
     size: 36
     buttons:
       goBack:
@@ -676,7 +676,7 @@ shops:
         sellPrice: 30
         slot: 14
   discs:
-    name: "&3&lMusic Discs (page %page%)"
+    name: "&3&lMusic Discs"
     items:
       1:
         type: item
@@ -871,7 +871,7 @@ shops:
         sellPrice: 5
         slot: 34
   dyes:
-    name: "&8&lDyes (page %page%)"
+    name: "&8&lDyes"
     size: 36
     buttons:
       goBack:
@@ -1032,7 +1032,7 @@ shops:
         sellPrice: 5
         slot: 17
   miscellaneous:
-    name: "&d&lMiscellaneous (page %page%)"
+    name: "&d&lMiscellaneous"
     size: 36
     buttons:
       goBack:
@@ -1187,7 +1187,7 @@ shops:
         sellPrice: 20
         slot: 15
   vipshop:
-    name: "&a&lVip &5&lShop (page %page%)"
+    name: "&a&lVip &5&lShop"
     size: 27
     buttons:
       goBack:
@@ -1270,7 +1270,7 @@ shops:
         sellPrice: 50
         slot: 8
   empty:
-    name: "&6&lEmpty (page %page%)"
+    name: "&6&lThere is nothing here..."
     size: 9
     buttons:
       goBack:
