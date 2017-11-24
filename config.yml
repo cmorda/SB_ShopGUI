@@ -527,7 +527,7 @@ shopMenuItems:
       material: DIAMOND
       quantity: 1 
       damage: 0
-      name: "&b&lOres and valuables"
+      name: "&b&lOres and Valuables"
     shop: "ores" 
     slot: 2
   4:
