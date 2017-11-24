@@ -416,8 +416,8 @@ shops:
         item:
           material: RABBIT_HIDE
           quantity: 1
-        buyPrice: 2.2
-        sellPrice: 1.1
+        buyPrice: 5
+        sellPrice: 2.5
         slot: 19
       14:
         type: item
@@ -731,7 +731,7 @@ shops:
           quantity: 1
         buyPrice: 23000
         sellPrice: -1
-        slot: 32
+        slot: 31
       29:
         type: item
         item:
@@ -739,7 +739,7 @@ shops:
           quantity: 1
         buyPrice: 13000
         sellPrice: -1
-        slot: 33
+        slot: 32
       30:
         type: special
         special: BALANCE
@@ -1361,12 +1361,52 @@ shops:
       3:
         type: item
         item:
+          material: DIODE
+          quantity: 1
+        buyPrice: 55
+        sellPrice: -1
+        slot: 2
+      4:
+        type: item
+        item:
+          material: ENCHANTENT_TABLE
+          quantity: 1
+        buyPrice: 3250
+        sellPrice: 500
+        slot: 3
+      5:
+        type: item
+        item:
+          material: JUKEBOX
+          quantity: 1
+        buyPrice: 802
+        sellPrice: 400
+        slot: 4
+      6:
+        type: item
+        item:
+          material: ANVIL
+          quantity: 1
+        buyPrice: 3720
+        sellPrice: -1
+        slot: 5
+      7:
+        type: item
+        item:
+          material: REDSTONE_COMPARATOR
+          quantity: 1
+        buyPrice: 67.5
+        sellPrice: -1
+        slot: 6
+      8:
+        type: item
+        item:
           material: CAKE
           quantity: 1
         buyPrice: 0.1
         sellPrice: 0
         slot: 7
-      4:
+      9:
         type: item
         item:
           material: EXP_BOTTLE
@@ -1374,7 +1414,15 @@ shops:
         buyPrice: 30
         sellPrice: 15
         slot: 8
-      5:
+      10:
+        type: item
+        item:
+          material: REDSTONE_LAMP_OFF
+          quantity: 1
+        buyPrice: 126
+        sellPrice: -1
+        slot: 9
+      11:
         type: item
         item:
           material: DIAMOND_BARDING
@@ -1382,7 +1430,7 @@ shops:
         buyPrice: 50000
         sellPrice: -1
         slot: 10
-      6:
+      12:
         type: item
         item:
           material: GOLD_BARDING
@@ -1390,7 +1438,7 @@ shops:
         buyPrice: 20000
         sellPrice: -1
         slot: 11
-      7:
+      13:
         type: item
         item:
           material: IRON_BARDING
@@ -1398,7 +1446,7 @@ shops:
         buyPrice: 10000
         sellPrice: -1
         slot: 12
-      8:
+      14:
         type: item
         item:
           material: SADDLE
@@ -1406,7 +1454,7 @@ shops:
         buyPrice: 1500
         sellPrice: 750
         slot: 14
-      9:
+      15:
         type: item
         item:
           material: LEASH
@@ -1414,7 +1462,7 @@ shops:
         buyPrice: 100
         sellPrice: -1
         slot: 15
-      10:
+      16:
         type: item
         item:
           material: NAME_TAG
@@ -1422,6 +1470,14 @@ shops:
         buyPrice: 900
         sellPrice: 450
         slot: 16
+      17:
+        type: item
+        item:
+          material: DAYLIGHT_DETECTOR
+          quantity: 1
+        buyPrice: 128
+        sellPrice: -1
+        slot: 17
       11:
         type: special
         special: BALANCE
