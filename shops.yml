@@ -1834,7 +1834,7 @@ shops:
         buyPrice: 1000000
         sellPrice: 0
         slot: 6
-     2:
+      2:
         type: special
         special: BALANCE
         slot: 8
