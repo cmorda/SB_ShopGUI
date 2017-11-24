@@ -630,7 +630,7 @@ shops:
           quantity: 1
           name: "&aVillager Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:villager"}}"
+          - "give %PLAYER% 383:120 1"
         buyPrice: 100000
         sellPrice: -1
         slot: 18
@@ -641,7 +641,7 @@ shops:
           quantity: 1
           name: "&aHorse Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:horse"}}"
+          - "give %PLAYER% 383:100 1"
         buyPrice: 50000
         sellPrice: -1
         slot: 19
@@ -652,7 +652,7 @@ shops:
           quantity: 1
           name: "&aCow Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:cow"}}"
+          - "give %PLAYER% 383:92 1"
         buyPrice: 40000
         sellPrice: -1
         slot: 20
@@ -663,7 +663,7 @@ shops:
           quantity: 1
           name: "&aSheep Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:sheep"}}"
+          - "give %PLAYER% 383:91 1"
         buyPrice: 40000
         sellPrice: -1
         slot: 21
@@ -674,7 +674,7 @@ shops:
           quantity: 1
           name: "&aPig Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:pig"}}"
+          - "give %PLAYER% 383:90 1"
         buyPrice: 40000
         sellPrice: -1
         slot: 22
@@ -685,7 +685,7 @@ shops:
           quantity: 1
           name: "&aOcelot Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:ocelot"}}"
+          - "give %PLAYER% 383:98 1"
         buyPrice: 30000
         sellPrice: -1
         slot: 23
@@ -696,7 +696,7 @@ shops:
           quantity: 1
           name: "&aWolf Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:wolf"}}"
+          - "give %PLAYER% 383:95 1"
         buyPrice: 30000
         sellPrice: -1
         slot: 24
@@ -1815,7 +1815,7 @@ shops:
           quantity: 1
           name: "&aMooshroom Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:mooshroom"}}"
+          - "give %PLAYER% 383:96 1"
         buyPrice: 40000
         sellPrice: -1
         slot: 37
@@ -1826,7 +1826,7 @@ shops:
           quantity: 1
           name: "&aRabbit Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:rabbit"}}"
+          - "give %PLAYER% 383:101 1"
         buyPrice: 30000
         sellPrice: -1
         slot: 38
@@ -1837,7 +1837,7 @@ shops:
           quantity: 1
           name: "&aPolar Bear Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:polar_bear"}}"
+          - "give %PLAYER% 383:102 1"
         buyPrice: 50000
         sellPrice: -1
         slot: 39
@@ -1861,7 +1861,7 @@ shops:
           quantity: 1
           name: "&aBat Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:bat"}}"
+          - "give %PLAYER% 383:65 1"
         buyPrice: 20000
         sellPrice: -1
         slot: 41
@@ -1872,7 +1872,7 @@ shops:
           quantity: 1
           name: "&aSquid Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:squid"}}"
+          - "give %PLAYER% 383:94 1"
         buyPrice: 10000
         sellPrice: -1
         slot: 42
@@ -1883,7 +1883,7 @@ shops:
           quantity: 1
           name: "&aEndermite Egg"
         commands:
-          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:endermite"}}"
+          - "give %PLAYER% 383:67 1"
         buyPrice: 10000
         sellPrice: -1
         slot: 43
