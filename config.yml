@@ -560,7 +560,7 @@ shopMenuItems:
     slot: 6
   8:
     item:
-      material: NETHER_STAR
+      material: CAKE
       quantity: 1
       damage: 12
       name: "&a&lVIP &5&lShop"
