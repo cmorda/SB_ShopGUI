@@ -624,65 +624,79 @@ shops:
         sellPrice: -1
         slot: 15
       17:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 120
+          name: "&aVillager Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:villager"}}"
         buyPrice: 100000
         sellPrice: -1
         slot: 18
       18:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 100
+          name: "&aHorse Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:horse"}}"
         buyPrice: 50000
         sellPrice: -1
         slot: 19
       19:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 92
+          name: "&aCow Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:cow"}}"
         buyPrice: 40000
         sellPrice: -1
         slot: 20
       20:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 91
+          name: "&aSheep Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:sheep"}}"
         buyPrice: 40000
         sellPrice: -1
         slot: 21
       21:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 90
+          name: "&aPig Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:pig"}}"
         buyPrice: 40000
         sellPrice: -1
         slot: 22
       22:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 98
+          name: "&aOcelot Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:ocelot"}}"
         buyPrice: 30000
         sellPrice: -1
         slot: 23
       23:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 95
+          name: "&aWolf Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:wolf"}}"
         buyPrice: 30000
         sellPrice: -1
         slot: 24
