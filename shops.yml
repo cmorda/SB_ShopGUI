@@ -1809,29 +1809,35 @@ shops:
         sellPrice: -1
         slot: 35
       37:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 96
+          name: "&aMooshroom Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:mooshroom"}}"
         buyPrice: 40000
         sellPrice: -1
         slot: 37
       38:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 101
+          name: "&aRabbit Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:rabbit"}}"
         buyPrice: 30000
         sellPrice: -1
         slot: 38
       39:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 102
+          name: "&aPolar Bear Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:polar_bear"}}"
         buyPrice: 50000
         sellPrice: -1
         slot: 39
@@ -1849,29 +1855,35 @@ shops:
         sellprice: -1
         slot: 40
       41:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 65
+          name: "&aBat Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:bat"}}"
         buyPrice: 20000
         sellPrice: -1
         slot: 41
       42:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 94
+          name: "&aSquid Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:squid"}}"
         buyPrice: 10000
         sellPrice: -1
         slot: 42
       42:
-        type: item
+        type: command
         item:
           material: MONSTER_EGG
           quantity: 1
-          damage: 67
+          name: "&aEndermite Egg"
+        commands:
+          - "give %PLAYER% spawn_egg 1 0 {EntityTag:{id:"minecraft:endermite"}}"
         buyPrice: 10000
         sellPrice: -1
         slot: 43
