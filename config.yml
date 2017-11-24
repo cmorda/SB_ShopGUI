@@ -560,7 +560,7 @@ shopMenuItems:
     slot: 6
   8:
     item:
-      material: BLAZE_POWDER
+      material: NETHER_STAR
       quantity: 1
       damage: 12
       name: "&a&lVIP &5&lShop"
