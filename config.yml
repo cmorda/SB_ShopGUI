@@ -102,7 +102,7 @@ disableSudoWorldPermissionCheck: false
 disableSudoShopPermissionCheck: false
 
 # Choose whether free items (with sell price of $0) should be excluded from being sold using /sell hand and /sell all
-sellHandAllExcludeFreeItems: false
+sellHandAllExcludeFreeItems: true
 
 # Choose predefined settings for all items (will be overriden when set explicitly for an item in shops.yml)
 defaultItemSettings:
