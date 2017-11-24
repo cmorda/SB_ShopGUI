@@ -562,7 +562,6 @@ shopMenuItems:
     item:
       material: CAKE
       quantity: 1
-      damage: 12
       name: "&a&lVIP &5&lShop"
     shop: "vipshop"
     slot: 7
