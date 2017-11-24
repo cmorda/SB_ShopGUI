@@ -6,7 +6,7 @@ shops:
         type: item
         item:
           material: COBBLESTONE
-          quantity: 64
+          quantity: 1
         buyPrice: 1
         sellPrice: 0.5
         slot: 0
@@ -14,7 +14,7 @@ shops:
         type: item
         item:
           material: STONE
-          quantity: 64
+          quantity: 1
         buyPrice: 4
         sellPrice: 2
         slot: 1
@@ -22,7 +22,7 @@ shops:
         type: item
         item:
           material: STONE
-          quantity: 64
+          quantity: 1
           damage: 5
         buyPrice: 4
         sellPrice: 2
@@ -31,7 +31,7 @@ shops:
         type: item
         item:
           material: STONE
-          quantity: 64
+          quantity: 1
           damage: 1
         buyPrice: 4
         sellPrice: 2
@@ -40,7 +40,7 @@ shops:
         type: item
         item:
           material: STONE
-          quantity: 64
+          quantity: 1
           damage: 3
         buyPrice: 4
         sellPrice: 2
@@ -49,7 +49,7 @@ shops:
         type: item
         item:
           material: OBSIDIAN
-          quantity: 8
+          quantity: 1
         buyPrice: 400
         sellPrice: 200
         slot: 5
@@ -57,7 +57,7 @@ shops:
         type: item
         item:
           material: MAGMA
-          quantity: 64
+          quantity: 1
         buyPrice: 60
         sellPrice: 30
         slot: 6
@@ -65,7 +65,7 @@ shops:
         type: item
         item:
           material: NETHERRACK
-          quantity: 64
+          quantity: 1
         buyPrice: 10
         sellPrice: 5
         slot: 7
@@ -73,7 +73,7 @@ shops:
         type: item
         item:
           material: NETHER_BRICK
-          quantity: 64
+          quantity: 1
         buyPrice: 40
         sellPrice: 20
         slot: 8
@@ -81,7 +81,7 @@ shops:
         type: item
         item:
           material: DIRT
-          quantity: 64
+          quantity: 1
         buyPrice: 60
         sellPrice: 30
         slot: 9
@@ -89,7 +89,7 @@ shops:
         type: item
         item:
           material: DIRT
-          quantity: 64
+          quantity: 1
           damage: 1
         buyPrice: 60
         sellPrice: 30
@@ -98,7 +98,7 @@ shops:
         type: item
         item:
           material: GRASS
-          quantity: 64
+          quantity: 1
         buyPrice: 120
         sellPrice: 60
         slot: 11
@@ -106,7 +106,7 @@ shops:
         type: item
         item:
           material: MYCEL
-          quantity: 64
+          quantity: 1
         buyPrice: 80
         sellPrice: 40
         slot: 12
@@ -114,7 +114,7 @@ shops:
         type: item
         item:
           material: DIRT
-          quantity: 64
+          quantity: 1
           damage: 2
         buyPrice: 120
         sellPrice: 60
@@ -123,7 +123,7 @@ shops:
         type: item
         item:
           material: GRAVEL
-          quantity: 64
+          quantity: 1
         buyPrice: 50
         sellPrice: 25
         slot: 14
@@ -131,7 +131,7 @@ shops:
         type: item
         item:
           material: SAND
-          quantity: 64
+          quantity: 1
         buyPrice: 30
         sellPrice: 15
         slot: 15
@@ -139,7 +139,7 @@ shops:
         type: item
         item:
           material: SAND
-          quantity: 64
+          quantity: 1
           damage: 1
         buyPrice: 30
         sellPrice: 15
@@ -148,7 +148,7 @@ shops:
         type: item
         item:
           material: WOOL
-          quantity: 64
+          quantity: 1
         buyPrice: 35
         sellPrice: 3
         slot: 17
@@ -156,7 +156,7 @@ shops:
         type: item
         item:
           material: LOG
-          quantity: 64
+          quantity: 1
         buyPrice: 1
         sellPrice: 0.2
         slot: 18
@@ -164,7 +164,7 @@ shops:
         type: item
         item:
           material: LOG
-          quantity: 64
+          quantity: 1
           damage: 1
         buyPrice: 1
         sellPrice: 0.2
@@ -173,7 +173,7 @@ shops:
         type: item
         item:
           material: LOG
-          quantity: 64
+          quantity: 1
           damage: 2
         buyPrice: 1
         sellPrice: 0.2
@@ -182,7 +182,7 @@ shops:
         type: item
         item:
           material: LOG
-          quantity: 64
+          quantity: 1
           damage: 3
         buyPrice: 1
         sellPrice: 0.2
@@ -191,7 +191,7 @@ shops:
         type: item
         item:
           material: LOG_2
-          quantity: 64
+          quantity: 1
         buyPrice: 1
         sellPrice: 0.2
         slot: 22
@@ -199,7 +199,7 @@ shops:
         type: item
         item:
           material: LOG_2
-          quantity: 64
+          quantity: 1
         buyPrice: 1
         sellPrice: 0.2
         slot: 23
@@ -207,7 +207,7 @@ shops:
         type: item
         item:
           material: CLAY
-          quantity: 64
+          quantity: 1
         buyPrice: 24
         sellPrice: 12
         slot: 24
@@ -215,7 +215,7 @@ shops:
         type: item
         item:
           material: HARD_CLAY
-          quantity: 64
+          quantity: 1
         buyPrice: 30
         sellPrice: 15
         slot: 25
@@ -223,7 +223,7 @@ shops:
         type: item
         item:
           material: PISTON_BASE
-          quantity: 8
+          quantity: 1
         buyPrice: 121
         sellPrice: 0
         slot: 26
@@ -231,7 +231,7 @@ shops:
         type: item
         item:
           material: ENDER_STONE
-          quantity: 64
+          quantity: 1
         buyPrice: 50
         sellPrice: 25
         slot: 27
@@ -239,7 +239,7 @@ shops:
         type: item
         item:
           material: PURPUR_BLOCK
-          quantity: 64
+          quantity: 1
         buyPrice: 50
         sellPrice: 0
         slot: 28
@@ -247,7 +247,7 @@ shops:
         type: item
         item:
           material: SEA_LANTERN
-          quantity: 64
+          quantity: 1
         buyPrice: 350
         sellPrice: 0
         slot: 29
@@ -255,7 +255,7 @@ shops:
         type: item
         item:
           material: PRISMARINE
-          quantity: 64
+          quantity: 1
         buyPrice: 200
         sellPrice: 100
         slot: 30
@@ -271,7 +271,7 @@ shops:
         type: item
         item:
           material: ICE
-          quantity: 32
+          quantity: 1
         buyPrice: 350
         sellPrice: 2
         slot: 32
@@ -279,7 +279,7 @@ shops:
         type: item
         item:
           material: PACKED_ICE
-          quantity: 64
+          quantity: 1
         buyPrice: 400
         sellPrice: 200
         slot: 33
@@ -287,7 +287,7 @@ shops:
         type: item
         item:
           material: SNOW_BLOCK
-          quantity: 64
+          quantity: 1
         buyPrice: 40
         sellPrice: 20
         slot: 34
@@ -318,7 +318,7 @@ shops:
         type: item
         item:
           material: ROTTEN_FLESH
-          quantity: 32
+          quantity: 1
         buyPrice: 4
         sellPrice: 2
         slot: 0
@@ -326,7 +326,7 @@ shops:
         type: item
         item:
           material: BONE
-          quantity: 32
+          quantity: 1
         buyPrice: 4
         sellPrice: 2
         slot: 1
@@ -334,7 +334,7 @@ shops:
         type: item
         item:
           material: ARROW
-          quantity: 32
+          quantity: 1
         buyPrice: 4
         sellPrice: 2
         slot: 2
@@ -342,7 +342,7 @@ shops:
         type: item
         item:
           material: SULPHUR
-          quantity: 32
+          quantity: 1
         buyPrice: 5
         sellPrice: 2
         slot: 3
@@ -350,7 +350,7 @@ shops:
         type: item
         item:
           material: STRING
-          quantity: 32
+          quantity: 1
         buyPrice: 20
         sellPrice: 10
         slot: 4
@@ -358,7 +358,7 @@ shops:
         type: item
         item:
           material: SPIDER_EYE
-          quantity: 16
+          quantity: 1
         buyPrice: 14
         sellPrice: 7
         slot: 5
@@ -366,7 +366,7 @@ shops:
         type: item
         item:
           material: SLIME_BALL
-          quantity: 32
+          quantity: 1
         buyPrice: 20
         sellPrice: 10
         slot: 6
@@ -374,7 +374,7 @@ shops:
         type: item
         item:
           material: ENDER_PEARL
-          quantity: 16
+          quantity: 1
         buyPrice: 30
         sellPrice: 20
         slot: 7
@@ -382,7 +382,7 @@ shops:
         type: item
         item:
           material: BLAZE_ROD
-          quantity: 8
+          quantity: 1
         buyPrice: 100
         sellPrice: 50
         slot: 9
@@ -390,7 +390,7 @@ shops:
         type: item
         item:
           material: MAGMA_CREAM
-          quantity: 8
+          quantity: 1
         buyPrice: 70
         sellPrice: 35
         slot: 10
@@ -406,7 +406,7 @@ shops:
         type: item
         item:
           material: LEATHER
-          quantity: 32
+          quantity: 1
         buyPrice: 20
         sellPrice: 10
         slot: 18
@@ -414,7 +414,7 @@ shops:
         type: item
         item:
           material: RABBIT_HIDE
-          quantity: 32
+          quantity: 1
         buyPrice: 2.2
         sellPrice: 1.1
         slot: 19
@@ -422,7 +422,7 @@ shops:
         type: item
         item:
           material: FEATHER
-          quantity: 32
+          quantity: 1
         buyPrice: 4
         sellPrice: 2
         slot: 20
@@ -430,7 +430,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 32
+          quantity: 1
         buyPrice: 10
         sellPrice: 5
         slot: 21
@@ -438,7 +438,7 @@ shops:
         type: item
         item:
           material: RABBIT_FOOT
-          quantity: 16
+          quantity: 1
         buyPrice: 50
         sellPrice: 25
         slot: 22
@@ -446,7 +446,7 @@ shops:
         type: item
         item:
           material: RAW_FISH
-          quantity: 32
+          quantity: 1
         buyPrice: 30
         sellPrice: 15
         slot: 27
@@ -454,7 +454,7 @@ shops:
         type: item
         item:
           material: RAW_FISH
-          quantity: 32
+          quantity: 1
           damage: 1
         buyPrice: 100
         sellPrice: 50
@@ -463,7 +463,7 @@ shops:
         type: item
         item:
           material: RAW_FISH
-          quantity: 16
+          quantity: 1
           damage: 3
         buyPrice: 300
         sellPrice: 150
@@ -496,7 +496,7 @@ shops:
         type: item
         item:
           material: DIAMOND
-          quantity: 8
+          quantity: 1
         buyPrice: 800
         sellPrice: 400
         slot: 0
@@ -504,7 +504,7 @@ shops:
         type: item
         item:
           material: EMERALD
-          quantity: 8
+          quantity: 1
         buyPrice: 800
         sellPrice: 300
         slot: 1
@@ -512,7 +512,7 @@ shops:
         type: item
         item:
           material: GOLD_INGOT
-          quantity: 8
+          quantity: 1
         buyPrice: 270
         sellPrice: 135
         slot: 2
@@ -520,7 +520,7 @@ shops:
         type: item
         item:
           material: IRON_INGOT
-          quantity: 8
+          quantity: 1
         buyPrice: 120
         sellPrice: 60
         slot: 3
@@ -528,7 +528,7 @@ shops:
         type: item
         item:
           material: COAL
-          quantity: 8
+          quantity: 1
           damage: 1
         buyPrice: 2
         sellPrice: .3
@@ -537,7 +537,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 8
+          quantity: 1
           damage: 4
         buyPrice: 14
         sellPrice: 7
@@ -546,7 +546,7 @@ shops:
         type: item
         item:
           material: REDSTONE
-          quantity: 8
+          quantity: 1
         buyPrice: 14
         sellPrice: 7
         slot: 6
@@ -554,7 +554,7 @@ shops:
         type: item
         item:
           material: QUARTZ
-          quantity: 64
+          quantity: 1
         buyPrice: 12
         sellPrice: 6
         slot: 7
@@ -562,7 +562,7 @@ shops:
         type: item
         item:
           material: GLOWSTONE
-          quantity: 32
+          quantity: 1
         buyPrice: 70
         sellPrice: 35
         slot: 8
@@ -937,7 +937,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 1
         buyPrice: 10
         sellPrice: 0
@@ -946,7 +946,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 14
         buyPrice: 50
         sellPrice: 5
@@ -955,7 +955,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 11
         buyPrice: 10
         sellPrice: 0
@@ -964,7 +964,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 10
         buyPrice: 10
         sellPrice: 0
@@ -973,7 +973,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 2
         buyPrice: 10
         sellPrice: 0
@@ -982,7 +982,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 6
         buyPrice: 10
         sellPrice: 0
@@ -991,7 +991,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 4
         buyPrice: 14
         sellPrice: 7
@@ -1000,7 +1000,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 12
         buyPrice: 10
         sellPrice: 0
@@ -1009,7 +1009,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 13
         buyPrice: 10
         sellPrice: 0
@@ -1018,7 +1018,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 5
         buyPrice: 10
         sellPrice: 0
@@ -1027,7 +1027,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 9
         buyPrice: 10
         sellPrice: 0
@@ -1036,7 +1036,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
         buyPrice: 10
         sellPrice: 5
         slot: 11
@@ -1044,7 +1044,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 8
         buyPrice: 10
         sellPrice: 0
@@ -1053,7 +1053,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 7
         buyPrice: 10
         sellPrice: 0
@@ -1062,7 +1062,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 15
         buyPrice: 2
         sellPrice: 0
@@ -1071,7 +1071,7 @@ shops:
         type: item
         item:
           material: INK_SACK
-          quantity: 16
+          quantity: 1
           damage: 3
         buyPrice: 20
         sellPrice: 10
@@ -1119,7 +1119,7 @@ shops:
         type: item
         item:
           material: EXP_BOTTLE
-          quantity: 64
+          quantity: 1
         buyPrice: 30
         sellPrice: 15
         slot: 8
