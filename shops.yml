@@ -1876,7 +1876,7 @@ shops:
         buyPrice: 10000
         sellPrice: -1
         slot: 42
-      42:
+      43:
         type: command
         item:
           material: EGG
