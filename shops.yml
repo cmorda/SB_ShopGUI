@@ -1383,7 +1383,7 @@ shops:
       4:
         type: item
         item:
-          material: ENCHANTENT_TABLE
+          material: ENCHANTMENT_TABLE
           quantity: 1
         buyPrice: 3250
         sellPrice: 500
