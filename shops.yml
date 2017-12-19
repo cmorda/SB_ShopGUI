@@ -1347,14 +1347,14 @@ shops:
         slot: 26
   miscellaneous:
     name: "&d&lMiscellaneous"
-    size: 27
+    size: 36
     buttons:
       goBack:
-        slot: 22
+        slot: 31
       previousPage:
-        slot: 21
+        slot: 30
       nextPage:
-        slot: 23
+        slot: 32
     items:
       1:
         type: item
@@ -1501,9 +1501,17 @@ shops:
         sellPrice: -1
         slot: 13
       19:
+        type: item
+        item:
+          material: SNOW_BALL
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 2.5
+        slot: 22
+      20:
         type: special
         special: BALANCE
-        slot: 26
+        slot: 35
   vipshop:
     name: "&a&lVip &5&lShop"
     size: 54
