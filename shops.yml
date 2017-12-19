@@ -290,7 +290,7 @@ shops:
           material: SNOW_BLOCK
           quantity: 1
         buyPrice: 40
-        sellPrice: 20
+        sellPrice: 15
         slot: 34
       36:
         type: item
@@ -1492,7 +1492,15 @@ shops:
         buyPrice: 128
         sellPrice: -1
         slot: 17
-      11:
+      18:
+        type: item
+        item:
+          material: PRISMARINE_SHARD
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+        slot: 13
+      19:
         type: special
         special: BALANCE
         slot: 26
