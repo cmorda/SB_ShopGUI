@@ -320,7 +320,7 @@ shops:
         item:
           material: ROTTEN_FLESH
           quantity: 1
-        buyPrice: 4
+        buyPrice: 8
         sellPrice: 2
         slot: 0
       2:
