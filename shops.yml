@@ -624,6 +624,14 @@ shops:
         sellPrice: -1
         slot: 15
       17:
+        type: item
+        item:
+          material: QUARTZ_ORE
+          quantity: 1
+        buyPrice: 800
+        sellPrice: -1
+        slot: 16
+      18:
         type: command
         item:
           material: EGG
@@ -634,7 +642,7 @@ shops:
         buyPrice: 100000
         sellPrice: -1
         slot: 18
-      18:
+      19:
         type: command
         item:
           material: EGG
@@ -645,7 +653,7 @@ shops:
         buyPrice: 50000
         sellPrice: -1
         slot: 19
-      19:
+      20:
         type: command
         item:
           material: EGG
@@ -656,7 +664,7 @@ shops:
         buyPrice: 40000
         sellPrice: -1
         slot: 20
-      20:
+      21:
         type: command
         item:
           material: EGG
@@ -667,7 +675,7 @@ shops:
         buyPrice: 40000
         sellPrice: -1
         slot: 21
-      21:
+      22:
         type: command
         item:
           material: EGG
@@ -678,7 +686,7 @@ shops:
         buyPrice: 40000
         sellPrice: -1
         slot: 22
-      22:
+      23:
         type: command
         item:
           material: EGG
@@ -689,7 +697,7 @@ shops:
         buyPrice: 30000
         sellPrice: -1
         slot: 23
-      23:
+      24:
         type: command
         item:
           material: EGG
@@ -700,7 +708,7 @@ shops:
         buyPrice: 30000
         sellPrice: -1
         slot: 24
-      24:
+      25:
         type: item
         item:
           material: NETHER_STAR
@@ -708,7 +716,7 @@ shops:
         buyPrice: 500000
         sellPrice: -1
         slot: 27
-      25:
+      26:
         type: item
         item:
           material: ELYTRA
@@ -716,7 +724,7 @@ shops:
         buyPrice: 100000
         sellPrice: -1
         slot: 28
-      26:
+      27:
         type: item
         item:
           material: ENCHANTED_BOOK
@@ -726,7 +734,7 @@ shops:
         buyPrice: 100000
         sellPrice: -1
         slot: 29
-      27:
+      28:
         type: item
         item:
           material: STICK
@@ -738,7 +746,7 @@ shops:
         buyPrice: 50000
         sellPrice: -1
         slot: 30
-      28:
+      29:
         type: item
         item:
           material: HOPPER
@@ -746,7 +754,7 @@ shops:
         buyPrice: 23000
         sellPrice: -1
         slot: 31
-      29:
+      30:
         type: item
         item:
           material: ENDER_CHEST
@@ -754,7 +762,7 @@ shops:
         buyPrice: 13000
         sellPrice: -1
         slot: 32
-      30:
+      31:
         type: special
         special: BALANCE
         slot: 44
