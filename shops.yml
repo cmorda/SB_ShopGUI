@@ -1515,8 +1515,19 @@ shops:
           quantity: 1
         buyPrice: 10
         sellPrice: 2.5
-        slot: 22
+        slot: 21
       20:
+       type: command
+        item:
+          material: POTION
+          quantity: 1
+          name: "&fAwkward Potion"
+        commands:
+          - "minecraft:give %PLAYER% potion 1 16"
+        buyPrice: 500
+        sellPrice: -1
+        slot: 23
+      21:
         type: special
         special: BALANCE
         slot: 35
