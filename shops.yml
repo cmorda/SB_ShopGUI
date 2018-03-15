@@ -1517,7 +1517,7 @@ shops:
         sellPrice: 2.5
         slot: 21
       20:
-       type: command
+        type: command
         item:
           material: POTION
           quantity: 1
