@@ -140,7 +140,7 @@ shopItemLoreFormat:
 # Logging settings
 log:
   # Define whether transactions will be logged to the console/main server log
-  toConsole: true
+  toConsole: false
   # Define whether transactions will be logged to a separate log
   toFile: false
   # Date format of transactions (http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
