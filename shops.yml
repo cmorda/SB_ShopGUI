@@ -479,6 +479,14 @@ shops:
         sellPrice: 200
         slot: 30
       21:
+        type: item
+        item:
+          material: COBBLESTONE
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+        slot: 0
+      22:
         type: special
         special: BALANCE
         slot: 44
