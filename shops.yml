@@ -124,8 +124,8 @@ shops:
         item:
           material: GRAVEL
           quantity: 1
-        buyPrice: 50
-        sellPrice: 25
+        buyPrice: 30
+        sellPrice: 0.5
         slot: 14
       16:
         type: item
@@ -565,7 +565,7 @@ shops:
           material: GLOWSTONE
           quantity: 1
         buyPrice: 70
-        sellPrice: 35
+        sellPrice: 1
         slot: 8
       10:
         type: item
@@ -1884,8 +1884,8 @@ shops:
           damage: 3
           name: "&bStaff Heads"
           lore:
-            - "&aGo to &e/warp vipshop"
-            - "&ato buy the heads of all the staff!"
+            - "&aUse /hdb to buy"
+            - "&the heads of all the staff!"
         buyprice: -1
         sellprice: -1
         slot: 40
