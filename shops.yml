@@ -1525,6 +1525,14 @@ shops:
         sellPrice: 2.5
         slot: 21
       20:
+        type: item
+        item:
+          material: APPLE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 22
+      21:
         type: command
         item:
           material: POTION
@@ -1535,7 +1543,7 @@ shops:
         buyPrice: 500
         sellPrice: -1
         slot: 23
-      21:
+      22:
         type: special
         special: BALANCE
         slot: 35
