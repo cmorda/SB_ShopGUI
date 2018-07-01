@@ -763,6 +763,14 @@ shops:
         sellPrice: -1
         slot: 32
       31:
+        type: item
+        item:
+          material: PURPLE_SHULKER_BOX
+          quantity: 1
+        buyPrice: 2500
+        sellPrice: -1
+        slot: 33
+      32:
         type: special
         special: BALANCE
         slot: 44
